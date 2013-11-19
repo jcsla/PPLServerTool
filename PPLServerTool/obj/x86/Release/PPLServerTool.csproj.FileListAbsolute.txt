@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Release\PPLServerTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Release\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Release\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Release\System.Net.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Release\PPLServerTool.Form2.resources

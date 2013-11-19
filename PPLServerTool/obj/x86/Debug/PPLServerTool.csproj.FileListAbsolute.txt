@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Debug\PPLServerTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Debug\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Debug\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\x86\Debug\ChilkatDotNet45.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\x86\Debug\PPLServerTool.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\Debug\PPLServerTool.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\Debug\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\Debug\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\obj\Debug\PPLServerTool.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PPLServerTool\PPLServerTool\bin\Debug\ChilkatDotNet45.dll
